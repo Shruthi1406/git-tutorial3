@@ -1,0 +1,1 @@
+console.log('wish you happy diwali');
