@@ -1,1 +1,1 @@
-console.log('wish 2');
+console.log('wish');
