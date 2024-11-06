@@ -1,1 +1,1 @@
-console.log('wish you happy diwali and dasara');
+console.log('wish 2');
